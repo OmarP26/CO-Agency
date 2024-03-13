@@ -1,5 +1,7 @@
+import { Navbar } from './components/Navbar/Navbar'
+
 export function App () {
   return (
-    <h1>CO Agency</h1>
+    <Navbar />
   )
 }
